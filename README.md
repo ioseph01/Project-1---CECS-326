@@ -9,4 +9,4 @@ To compile the program, download the file and navigate to it in a terminal. Use 
 ### Testing
 To test the program, you can enter the name of the compiled copyfile program into your terminal with two text files.
 
-`./copyfile <source_file> <destination_file>`
+**Command:** `./copyfile <source_file> <destination_file>`
