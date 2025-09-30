@@ -35,6 +35,9 @@ int main(int argc, char *argv[]) {
         fprintf(stderr, "Error: Unable to open destination file '%s'\n", destination_file);
         return 1;
     }
+	// Successful copy confirmation text
+	printf("File successfully copied from %s to %s.\n", source_file, destination_file);
+	
     // Create 1-way pipe of read and write, and fork for a child process
     int pipe_fd[2];
     pipe(pipe_fd);
