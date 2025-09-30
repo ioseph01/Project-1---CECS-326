@@ -9,4 +9,9 @@ To compile the program, download the file and navigate to it in a terminal. Use 
 ### Testing
 To test the program, you can enter the name of the compiled copyfile program into your terminal with two text files.
 
-**Command:** `./copyfile <source_file> <destination_file>`
+**Command:** `./filecopy <source_file> <destination_file>`
+
+### Outputting Text File
+To output the program files, you will enter the 'cat' followed by the desired text file.
+
+**Comand:** `cat <source_file> or <destiantion_file>`
