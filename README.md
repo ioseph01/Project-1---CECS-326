@@ -12,7 +12,7 @@ To test the program, you can enter the name of the compiled copyfile program int
 **Command:** `./filecopy <source_file> <destination_file>`
 
 ### Outputting Text File
-To output the program files, you will enter 'cat' followed by the desired existing text file.
+To output the program files, you will enter `cat` followed by the desired existing text file.
 
 **Command:** `cat <source_file> 
 or
